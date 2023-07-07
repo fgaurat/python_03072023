@@ -1,0 +1,51 @@
+<? xml version="" ?>
+
+[
+    {
+        'id':1,
+        'first_name':'Andie',
+        'projects':[
+            {'name':'Le projet'}
+        ]
+    }
+]
+
+
+<users>
+    <user>
+    <id>1</id>
+    <first_name>Andie</first_name>
+    <projects>
+        <project>
+            <name>Le projet</name>
+        </project>
+    </projects>
+    </user>
+    <user>
+    <id>1</id>
+    <first_name>Andie</first_name>
+    <projects>
+        <project>
+            <name>Le projet</name>
+        </project>
+    </projects>
+    </user>
+    <user>
+    <id>1</id>
+    <first_name>Andie</first_name>
+    <projects>
+        <project>
+            <name>Le projet</name>
+        </project>
+    </projects>
+    </user>
+    <user>
+    <id>1</id>
+    <first_name>Andie</first_name>
+    <projects>
+        <project>
+            <name>Le projet</name>
+        </project>
+    </projects>
+    </user>
+</users>
